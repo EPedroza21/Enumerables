@@ -1,3 +1,5 @@
+# Ejercicio enumerables
+
 # Dado un array de números imprime únicamente los elementos que contienen un indice impar
 # Utiliza: Enumerable#each_with_index
 def print_odd_indexed_integers(array)
